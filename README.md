@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is simple blog with react and redux. On home page all the posts will display, There is a search bar where user can search blog. when user clicks on view button, a new page will open with blog details. Here user can edit the blog name title.
 
 ## Available Scripts
 
